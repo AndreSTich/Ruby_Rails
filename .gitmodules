@@ -1,0 +1,6 @@
+[submodule "helloApp"]
+	path = helloApp
+	url = https://github.com/AndreSTich/helloApp.git
+[submodule "twoApp"]
+	path = twoApp
+	url = https://github.com/AndreSTich/twoApp.git
