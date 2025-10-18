@@ -6,4 +6,4 @@
 	url = https://github.com/AndreSTich/twoApp.git
 [submodule "threeApp"]
 	path = threeApp
-	url = https://github.com/your-username/threeApp.git
+	url = https://github.com/AndreSTich/threeApp.git
