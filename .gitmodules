@@ -15,3 +15,7 @@
 	path = fiveApp
 	url = https://github.com/AndreSTich/threeApp.git
 	branch = lab5
+[submodule "sixApp"]
+	path = sixApp
+	url = https://github.com/AndreSTich/threeApp.git
+	branch = lab6
