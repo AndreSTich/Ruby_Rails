@@ -19,3 +19,7 @@
 	path = sixApp
 	url = https://github.com/AndreSTich/threeApp.git
 	branch = lab6
+[submodule "sevenApp"]
+	path = sevenApp
+	url = https://github.com/AndreSTich/threeApp.git
+	branch = lab7

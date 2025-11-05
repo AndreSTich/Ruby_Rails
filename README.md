@@ -6,3 +6,4 @@
  - 4 л.р. - threeApp: ветка lab4;
  - 5 л.р. - threeApp: ветка lab5;
  - 6 л.р. - threeApp: ветка lab6;
+ - 7 л.р. - threeApp: ветка lab7;
