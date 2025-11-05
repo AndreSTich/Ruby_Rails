@@ -11,3 +11,7 @@
 	path = fourApp
 	url = https://github.com/AndreSTich/threeApp.git
 	branch = lab4
+[submodule "fiveApp"]
+	path = fiveApp
+	url = https://github.com/AndreSTich/threeApp.git
+	branch = lab5
